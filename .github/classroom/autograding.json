@@ -1,0 +1,114 @@
+{
+  "tests": [
+    {
+      "name": "Oppgave 0",
+      "setup": "",
+      "run": "gradle test --tests Oppgave0Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 1",
+      "setup": "",
+      "run": "gradle test --tests Oppgave1Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 2",
+      "setup": "",
+      "run": "gradle test --tests Oppgave2Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 3",
+      "setup": "",
+      "run": "gradle test --tests Oppgave3Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 4",
+      "setup": "",
+      "run": "gradle test --tests Oppgave4Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 5",
+      "setup": "",
+      "run": "gradle test --tests Oppgave5Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 6",
+      "setup": "",
+      "run": "gradle test --tests Oppgave6Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 7",
+      "setup": "",
+      "run": "gradle test --tests Oppgave7Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 8",
+      "setup": "",
+      "run": "gradle test --tests Oppgave8Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 9",
+      "setup": "",
+      "run": "gradle test --tests Oppgave9Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oppgave 10",
+      "setup": "",
+      "run": "gradle test --tests Oppgave10Test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
